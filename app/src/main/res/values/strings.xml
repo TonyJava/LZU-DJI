@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LZU-DJI</string>
+    <string name="sdk_registration_message">SDK Registration Failed. Please check the bundle ID and your network connectivity</string>
+</resources>
